@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Hi I am in new_branch branch
+=======
+I am in new new_branch_staging branch
+>>>>>>> new_branch_staging
